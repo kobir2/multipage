@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+
+}
+
+body{
+    overflow-x: hidden;
+}
+
+
+/* header */
+
+header{
+    padding: 30px 0;
+    border-bottom: 5px solid #e4e4e4;
+   
+}
+.navbar-brand{
+    color: #505050;
+    font-size: 53px;
+    font-style: italic;
+}
+
+
+.nav-item{
+    margin: 0 30px !important;
+}
+.nav-link{
+    color: #000;
+}
+
+/* content */
+
+section.content {
+    padding: 60px 0;
+}
+
+.content-left h1{
+    font-size: 53px;
+    margin-bottom: 50px;
+}
+
+.hcar{
+    position: relative;
+}
+
+.oc {
+    position: absolute;
+    top: 10%;
+    left: -5%;
+}
+
+.kv{
+    margin: 30px 0;
+}
+
+/* footer */
+
+
+footer{
+    background: #ef4035;
+    padding: 50px 0;
+}

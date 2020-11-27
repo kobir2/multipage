@@ -1,0 +1,79 @@
+
+
+/* mobile device */
+
+@media (min-width: 320px) and (max-width: 500px){
+    .header-top{
+        padding: 0;
+    }
+
+    .logo-img {
+        width: 150px;
+    }
+
+    .banner-content h1 {
+        background: rgba(0,0,0,0.6);
+        text-align: center;
+        padding: 20px 0;
+        font-size: 30px;
+    }
+
+    .role{
+        margin: 40px auto;
+    }
+
+    .banner-btn{
+       display: block;
+       margin: 0 auto 150px;
+    }
+
+    .car-content-left h1 {
+        font-size: 25px;
+        text-align: center;
+    }
+    .car-img {
+        position: inherit;
+        top: 55%;
+        left: 10%;
+        width: 300px;
+
+       
+    }
+
+    .c-h2 h2 {
+        font-size: 30px;
+        color: #fff;
+        text-align: center;
+    }
+
+    .car-btn{
+        margin: 50px auto;
+    }
+
+    
+}
+
+/* small device */
+
+@media (min-width: 500.01px) and (max-width: 768px){
+
+}
+
+/* medium device */
+
+@media (min-width: 768.01px) and (max-width: 992px){
+
+}
+
+
+/* desktop device */
+
+@media (min-width: 992.01px) and (max-width: 1200px){
+
+}
+
+/* large device */
+
+@media (min-width: 1200.01px) {
+
+}

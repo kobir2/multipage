@@ -1,0 +1,47 @@
+
+
+/* mobile device */
+
+@media (min-width: 320px) and (max-width: 500px){
+   
+    /* header */
+    
+    .navbar-brand{
+        color: #505050;
+        font-size: 25px;
+        font-style: italic;
+    }
+
+    /* content */
+
+    .oc {
+        position: inherit;
+        top: 10%;
+        left: 0%;
+    }
+}
+
+/* small device */
+
+@media (min-width: 500.01px) and (max-width: 768px){
+
+}
+
+/* medium device */
+
+@media (min-width: 768.01px) and (max-width: 992px){
+
+}
+
+
+/* desktop device */
+
+@media (min-width: 992.01px) and (max-width: 1200px){
+
+}
+
+/* large device */
+
+@media (min-width: 1200.01px) {
+
+}
